@@ -1,7 +1,5 @@
 # Job Market Data Analysis
 
-
-
 ## Background & Overview
 This project provides an in-depth analysis of **the Canadian job market** trends for data-related roles [using SQL and Excel]. The dataset, collected from **Glassdoor**, includes job postings from **January 1–31, 2025**, covering six key roles:  
 •	**Business Analyst**  
@@ -29,9 +27,37 @@ This hybrid approach—combining human oversight with AI-driven tagging—ensure
 
 
 ## Executive Summary
+An analysis of **2,385 job postings** from January 2025 uncovers key trends in the data-related job market:
+- **Most In-Demand Roles**:
+  - **Business Analysts** (36.3%) & **Data Analysts** (29.5%) are the most in-demand roles, reflecting their accessibility and widespread industry applications.
+
+- **Top Earners**:  
+  - **Cloud Engineers** & **ML Engineers** earn the highest salaries, but these positions require advanced skills and experience.
+
+- **Dominant Employers**:  
+  - The **financial sector** is a major employer, with **TD**, **Scotiabank**, **RBC**, and **CIBC** leading the way. These companies are heavily investing in **data**, **cloud**, and **ML** expertise.
+
+- **Geographical Trends**:  
+  - **Ontario** leads in job postings, followed by **Quebec** and **British Columbia**.  
+  - Key **hiring hubs**: **Toronto**, **Montreal**, and **Vancouver**.
+
+- **Role-Level Distribution**:  
+  - Mid and senior-level positions dominate in **analyst roles**.  
+  - **Engineering & Data Science** roles are more competitive at entry-level, reflecting a higher barrier to entry.
+
+- **Work Mode**:  
+  - Hybrid work is on the rise (37%), but **fully remote roles** remain scarce at only 6%.
+
+- **Top Technical Skills**:  
+  - **SQL**, **Python**, and **Excel** are in high demand.  
+  - **Azure**, **AWS**, and **Power BI** are critical for gaining a competitive edge.
+
+
+
+## Executive Summary
 An analysis of 2,385 job postings from January 2025 reveals that Business Analysts (36.3%) & Data Analysts (29.5%) are the most in-demand roles, reflecting their accessibility and widespread industry applications. Cloud Engineers & ML Engineers earn the highest salaries, but these roles require more advanced skills & experience.   
-The financial sector, led by TD, Scotiabank, RBC, and CIBC, emerges as a dominant employer, reflecting ongoing investments in data, cloud, and ML expertise.
-Geographical trends show Ontario leading in job postings, followed by Quebec and British Columbia, with Toronto, Montreal, and Vancouver as key hiring hubs. 
+The financial sector, led by TD, Scotiabank, RBC, and CIBC, emerges as a dominant employer, reflecting ongoing investments in data, cloud, and ML expertise.  
+Geographical trends show Ontario leading in job postings, followed by Quebec and British Columbia, with Toronto, Montreal, and Vancouver as key hiring hubs.   
 Mid & senior-level positions dominate analyst roles, while entry-level opportunities are more limited for engineering & data science roles, indicating a higher barrier to entry.  
 Despite the rise of hybrid work (37%), fully remote roles remain scarce (6%).   
 Regarding technical skills, SQL, Python, and Excel dominate employer demand, while Azure, AWS, and Power BI are critical for competitive advantage.
