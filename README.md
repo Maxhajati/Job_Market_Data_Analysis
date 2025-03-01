@@ -1,5 +1,7 @@
 # Job Market Data Analysis
 
+![dash01](https://github.com/user-attachments/assets/0daa8312-b635-4eb4-8b97-e8618be64b84)
+
 ## Background & Overview
 This project provides an in-depth analysis of **the Canadian job market** trends for data-related roles [using SQL and Excel]. The dataset, collected from **Glassdoor**, includes job postings from **January 1–31, 2025**, covering six key roles:  
 •	**Business Analyst**  
@@ -59,8 +61,11 @@ BA and DA roles make up over 65% of job postings, making them the most accessibl
 ML and Cloud Engineers earn the highest salaries, reflecting the advanced expertise required. These roles demand strong programming skills, cloud computing knowledge, and experience with AI/ML frameworks, making them competitive but rewarding career paths.
 Top Employers & Industry Trends  
 Canada’s major banks (TD, Scotiabank, RBC, CIBC) are actively hiring data professionals, reflecting a strong investment in digital transformation.
-### Geographical Distribution  
-Ontario dominates (1,435 job postings), followed by Quebec (254) and British Columbia (246). Toronto remains the primary tech hub, while smaller provinces show emerging tech job growth.
+### Geographical Distribution 
+![Dash03](https://github.com/user-attachments/assets/f38198bb-6556-44ae-8065-a622e5ff2a4f)
+
+Ontario dominates (60.2% job postings), followed by Quebec (10.6%) and British Columbia (10.3%). Toronto remains the primary tech hub, while smaller provinces show emerging tech job growth.
+
 ### Skills Demand  
 Across all job postings, SQL, Python, and Excel emerge as the most sought-after skills, forming the foundation for data-related roles. Data visualization expertise is also in high demand, with Power BI and Tableau leading as the preferred tools for business intelligence and reporting.
 Breaking down skill requirements further, SQL-based databases dominate, with SQL Server, PostgreSQL, and MySQL leading in demand, while NoSQL databases like MongoDB are relevant for scalable applications. In programming, SQL and Python remain essential, followed by R for statistical analysis. Additionally, cloud proficiency extends beyond platforms to specialized tools like Databricks and Snowflake, which are crucial for big data processing and cloud-based analytics. Visualization remains a key focus, with Power BI's Microsoft integration and Tableau’s flexibility making both tools essential for data professionals
@@ -76,24 +81,5 @@ Prioritize SQL, Python, and cloud computing (Azure, AWS) to maximize employabili
 Expanding remote work opportunities could help attract a larger talent pool, especially for highly skilled roles. Additionally, offering more entry-level and internship roles in Engineering and Data Science would help build a sustainable pipeline of talent.  
 ### For Career Planning    
 Developing expertise in Power BI, Tableau, and database systems (SQL Server, PostgreSQL, MySQL) will enhance job prospects in data analysis and business intelligence roles. For those aiming at engineering and cloud roles, hands-on experience with Snowflake, Databricks, and cloud platforms will be a strong differentiator.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
