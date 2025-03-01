@@ -3,13 +3,13 @@
 
 
 ## Background & Overview
-This project provides an in-depth analysis of job market trends for data-related roles [using SQL and Excel]. The dataset, collected from Glassdoor, includes job postings from January 1–31, 2025 [Canadian job market], covering six key roles:  
-•	Business Analyst  
-•	Data Analyst  
-•	Data Engineer  
-•	Data Scientist  
-•	Cloud Engineer  
-•	Machine Learning (ML) Engineer  
+This project provides an in-depth analysis of **the Canadian job market** trends for data-related roles [using SQL and Excel]. The dataset, collected from **Glassdoor**, includes job postings from **January 1–31, 2025**, covering six key roles:  
+•	**Business Analyst**  
+•	**Data Analyst**  
+•	**Data Engineer**  
+•	**Data Scientist**  
+•	**Cloud Engineer**  
+•	**Machine Learning (ML) Engineer**  
 The analysis utilizes SQL for data extraction and transformation and Excel for visualization through an interactive dashboard.
 
 ## Data Structure Overview  
