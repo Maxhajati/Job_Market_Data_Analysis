@@ -56,21 +56,34 @@ An analysis of **2,385 job postings** from January 2025 uncovers key trends in t
 
 
 ## Insights Deep Dive 
-### Role Demand & Salary Trends  
-BA and DA roles make up over 65% of job postings, making them the most accessible paths into data careers. Their demand is driven by the need for data interpretation and business insights, requiring skills in SQL, Excel, and visualization tools like Power BI and Tableau.
-ML and Cloud Engineers earn the highest salaries, reflecting the advanced expertise required. These roles demand strong programming skills, cloud computing knowledge, and experience with AI/ML frameworks, making them competitive but rewarding career paths.
-Top Employers & Industry Trends  
-Canada’s major banks (TD, Scotiabank, RBC, CIBC) are actively hiring data professionals, reflecting a strong investment in digital transformation.
+### Role Demand   
+BA and DA roles make up over 65% of job postings, making them the most accessible paths into data careers. Their demand is driven by the need for data interpretation and business insights, requiring skills in SQL, Excel, and visualization tools like Power BI and Tableau.  
+
+### Salary Trends 
+ML and Cloud Engineers earn the highest salaries, reflecting the advanced expertise required. These roles demand strong programming skills, cloud computing knowledge, and experience with AI/ML frameworks, making them competitive but rewarding career paths.    
+
+### Top Employers & Industry Trends  
+![Dash06](https://github.com/user-attachments/assets/87acbb97-7868-404f-9b0a-7ac88ab0e8a8)
+
+
+Canada’s major banks (**TD, Scotiabank, RBC, CIBC**) are actively hiring data professionals, reflecting a strong investment in digital transformation.
+
 ### Geographical Distribution 
 ![Dash03](https://github.com/user-attachments/assets/f38198bb-6556-44ae-8065-a622e5ff2a4f)
 
-Ontario dominates (60.2% job postings), followed by Quebec (10.6%) and British Columbia (10.3%). Toronto remains the primary tech hub, while smaller provinces show emerging tech job growth.
+**Ontario** dominates (**60.2%** job postings), followed by Quebec (10.6%) and British Columbia (10.3%). **Toronto** remains the primary tech hub, while smaller provinces show emerging tech job growth.
 
 ### Skills Demand  
-Across all job postings, SQL, Python, and Excel emerge as the most sought-after skills, forming the foundation for data-related roles. Data visualization expertise is also in high demand, with Power BI and Tableau leading as the preferred tools for business intelligence and reporting.
-Breaking down skill requirements further, SQL-based databases dominate, with SQL Server, PostgreSQL, and MySQL leading in demand, while NoSQL databases like MongoDB are relevant for scalable applications. In programming, SQL and Python remain essential, followed by R for statistical analysis. Additionally, cloud proficiency extends beyond platforms to specialized tools like Databricks and Snowflake, which are crucial for big data processing and cloud-based analytics. Visualization remains a key focus, with Power BI's Microsoft integration and Tableau’s flexibility making both tools essential for data professionals
+![Dash05](https://github.com/user-attachments/assets/2f446d62-5561-47ad-a374-46cef119b847)
+
+Across all job postings, SQL, Python, and Excel emerge as the most sought-after skills, forming the foundation for data-related roles. Data visualization expertise is also in high demand, with Power BI and Tableau leading as the preferred tools for business intelligence and reporting.  
+Breaking down skill requirements further, SQL-based databases dominate, with SQL Server, PostgreSQL, and MySQL leading in demand, while NoSQL databases like MongoDB are relevant for scalable applications. In programming, SQL and Python remain essential, followed by R for statistical analysis.  
+Additionally, cloud proficiency extends beyond platforms to specialized tools like Databricks and Snowflake, which are crucial for big data processing and cloud-based analytics.  
+Visualization remains a key focus, with Power BI's Microsoft integration and Tableau’s flexibility making both tools essential for data professionals.  
+
 ### Work Models & Entry Barriers  
-Hybrid work (37%) is relatively common, but fully remote roles remain rare (6%). Analyst roles have lower barriers to entry, while Engineering and Data Science positions demand more specialized expertise.
+Hybrid work (37%) is relatively common, but fully remote roles remain rare (6%). Analyst roles have lower barriers to entry, while Engineering and Data Science positions demand more specialized expertise.  
+
 ### Career Entry & Progression  
 Analyst roles (BA & DA) are the most accessible, with demand concentrated at Mid and Senior levels, while Engineering and Data Science positions have fewer entry-level opportunities, indicating a higher barrier to entry.
 
