@@ -66,16 +66,6 @@ BA and DA roles make up over 65% of job postings, making them the most accessibl
 
 ML and Cloud Engineers earn the highest salaries, reflecting the advanced expertise required. These roles demand strong programming skills, cloud computing knowledge, and experience with AI/ML frameworks, making them competitive but rewarding career paths.    
 
-### Top Employers & Industry Trends  
-![Dash06](https://github.com/user-attachments/assets/9f7a05fb-9157-4369-9760-eb1cc3b09453)
-
-Canada’s major banks (**TD, Scotiabank, RBC, CIBC**) are actively hiring data professionals, reflecting a strong investment in digital transformation.
-
-### Geographical Distribution 
-![Dash03](https://github.com/user-attachments/assets/f38198bb-6556-44ae-8065-a622e5ff2a4f)
-
-**Ontario** dominates (**60.2%** job postings), followed by Quebec (10.6%) and British Columbia (10.3%). **Toronto** remains the primary tech hub, while smaller provinces show emerging tech job growth.
-
 ### Skills Demand  
 ![Dash05](https://github.com/user-attachments/assets/2f446d62-5561-47ad-a374-46cef119b847)
 
@@ -84,16 +74,27 @@ Breaking down skill requirements further, SQL-based databases dominate, with SQL
 Additionally, cloud proficiency extends beyond platforms to specialized tools like Databricks and Snowflake, which are crucial for big data processing and cloud-based analytics.  
 Visualization remains a key focus, with Power BI's Microsoft integration and Tableau’s flexibility making both tools essential for data professionals.  
 
-### Work Models & Entry Barriers  
+### Geographical Distribution Across Cities & Provinces
+![Dash03](https://github.com/user-attachments/assets/f38198bb-6556-44ae-8065-a622e5ff2a4f)
+
+**Ontario** dominates (**60.2%** job postings), followed by Quebec (10.6%) and British Columbia (10.3%). **Toronto** remains the primary tech hub, while smaller provinces show emerging tech job growth.
+
+### Top Employers & Industry Trends  
+<img src="https://github.com/user-attachments/assets/9f7a05fb-9157-4369-9760-eb1cc3b09453" alt="Dash08 Box Whisker" width="40%">
+
+Canada’s major banks (**TD, Scotiabank, RBC, CIBC**) are actively hiring data professionals, reflecting a strong investment in digital transformation.
+
+### Career Entry & Progression  
+<img src="https://github.com/user-attachments/assets/d3d19bc9-aaef-4ce6-95fb-f363a578341e" alt="Dash08 Box Whisker" width="55%">
+
+Analyst roles (BA & DA) are the most accessible, with demand concentrated at Mid and Senior levels, while Engineering and Data Science positions have fewer entry-level opportunities, indicating a higher barrier to entry.  
+Analyst roles have lower barriers to entry, while Engineering and Data Science positions demand more specialized expertise.  
+
+### Work Models  
 ![Dash10 Work Option](https://github.com/user-attachments/assets/d5ffcef9-b074-4e63-b21f-3d42458aa694)
 
 Hybrid work (37%) is relatively common, but fully remote roles remain rare (6%). 
 
-### Career Entry & Progression  
-![Dash09 Levels](https://github.com/user-attachments/assets/d3d19bc9-aaef-4ce6-95fb-f363a578341e)
-
-Analyst roles (BA & DA) are the most accessible, with demand concentrated at Mid and Senior levels, while Engineering and Data Science positions have fewer entry-level opportunities, indicating a higher barrier to entry.  
-Analyst roles have lower barriers to entry, while Engineering and Data Science positions demand more specialized expertise.  
 
 ## Recommendations
 ### For Job Seekers  
