@@ -53,15 +53,6 @@ An analysis of **2,385 job postings** from January 2025 uncovers key trends in t
   - **Azure**, **AWS**, and **Power BI** are critical for gaining a competitive edge.
 
 
-
-## Executive Summary
-An analysis of 2,385 job postings from January 2025 reveals that Business Analysts (36.3%) & Data Analysts (29.5%) are the most in-demand roles, reflecting their accessibility and widespread industry applications. Cloud Engineers & ML Engineers earn the highest salaries, but these roles require more advanced skills & experience.   
-The financial sector, led by TD, Scotiabank, RBC, and CIBC, emerges as a dominant employer, reflecting ongoing investments in data, cloud, and ML expertise.  
-Geographical trends show Ontario leading in job postings, followed by Quebec and British Columbia, with Toronto, Montreal, and Vancouver as key hiring hubs.   
-Mid & senior-level positions dominate analyst roles, while entry-level opportunities are more limited for engineering & data science roles, indicating a higher barrier to entry.  
-Despite the rise of hybrid work (37%), fully remote roles remain scarce (6%).   
-Regarding technical skills, SQL, Python, and Excel dominate employer demand, while Azure, AWS, and Power BI are critical for competitive advantage.
-
 ## Insights Deep Dive 
 ### Role Demand & Salary Trends  
 BA and DA roles make up over 65% of job postings, making them the most accessible paths into data careers. Their demand is driven by the need for data interpretation and business insights, requiring skills in SQL, Excel, and visualization tools like Power BI and Tableau.
