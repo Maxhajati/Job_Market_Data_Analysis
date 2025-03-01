@@ -3,7 +3,7 @@
 
 
 ## Background & Overview
-This project provides an in-depth analysis of job market trends for data-related roles using SQL and Excel. The dataset, collected from Glassdoor, includes job postings from January 1–31, 2025, covering six key roles:  
+This project provides an in-depth analysis of job market trends for data-related roles [using SQL and Excel]. The dataset, collected from Glassdoor, includes job postings from January 1–31, 2025 [Canadian job market], covering six key roles:  
 •	Business Analyst  
 •	Data Analyst  
 •	Data Engineer  
@@ -13,7 +13,20 @@ This project provides an in-depth analysis of job market trends for data-related
 The analysis utilizes SQL for data extraction and transformation and Excel for visualization through an interactive dashboard.
 
 ## Data Structure Overview  
-The dataset was manually extracted from Glassdoor to ensure high accuracy and structured formatting, avoiding limitations associated with automated scraping. AI-driven categorization was then applied to classify job attributes, including job title, salary (CAD), location (city & province), company, work mode, posting date, job schedule, job level, and required skills. This hybrid approach—combining human oversight with AI-driven tagging—ensured data integrity, reduced inconsistencies, and created a well-structured dataset. The result is a comprehensive dataset representing the Canadian job market for data professionals as of January 2025.
+The dataset was manually extracted from Glassdoor to ensure high accuracy and structured formatting, avoiding limitations associated with automated scraping. AI-driven categorization was then applied to classify job attributes, including:
+
+- 🔹 **Job Title**  
+- 💰 **Salary**  
+- 📍 **Location**  
+- 🏢 **Company**  
+- 💻 **Work Mode**  
+- 📅 **Posting Date**  
+- ⏰ **Job Schedule**  
+- 📈 **Job Level**  
+- 🛠️ **Required Skills**
+
+This hybrid approach—combining human oversight with AI-driven tagging—ensured data integrity, reduced inconsistencies, and created a well-structured dataset. The result is a comprehensive dataset representing the Canadian job market for data professionals as of January 2025.
+
 
 ## Executive Summary
 An analysis of 2,385 job postings from January 2025 reveals that Business Analysts (36.3%) & Data Analysts (29.5%) are the most in-demand roles, reflecting their accessibility and widespread industry applications. Cloud Engineers & ML Engineers earn the highest salaries, but these roles require more advanced skills & experience.   
