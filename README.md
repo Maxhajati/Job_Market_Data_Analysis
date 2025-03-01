@@ -56,15 +56,18 @@ An analysis of **2,385 job postings** from January 2025 uncovers key trends in t
 
 
 ## Insights Deep Dive 
-### Role Demand   
+### Role Demand  
+<img src="https://github.com/user-attachments/assets/6c5b8dc3-3977-4569-b764-4ac7736ce048" alt="Dash08 Box Whisker" width="88%">
+
 BA and DA roles make up over 65% of job postings, making them the most accessible paths into data careers. Their demand is driven by the need for data interpretation and business insights, requiring skills in SQL, Excel, and visualization tools like Power BI and Tableau.  
 
-### Salary Trends 
+### Salary Trends
+<img src="https://github.com/user-attachments/assets/76ca5cc0-3336-4bc3-9d8d-2b5e596277d3" alt="Dash08 Box Whisker" width="60%">
+
 ML and Cloud Engineers earn the highest salaries, reflecting the advanced expertise required. These roles demand strong programming skills, cloud computing knowledge, and experience with AI/ML frameworks, making them competitive but rewarding career paths.    
 
 ### Top Employers & Industry Trends  
-![Dash06](https://github.com/user-attachments/assets/87acbb97-7868-404f-9b0a-7ac88ab0e8a8)
-
+![Dash06](https://github.com/user-attachments/assets/9f7a05fb-9157-4369-9760-eb1cc3b09453)
 
 Canada’s major banks (**TD, Scotiabank, RBC, CIBC**) are actively hiring data professionals, reflecting a strong investment in digital transformation.
 
@@ -82,10 +85,15 @@ Additionally, cloud proficiency extends beyond platforms to specialized tools li
 Visualization remains a key focus, with Power BI's Microsoft integration and Tableau’s flexibility making both tools essential for data professionals.  
 
 ### Work Models & Entry Barriers  
-Hybrid work (37%) is relatively common, but fully remote roles remain rare (6%). Analyst roles have lower barriers to entry, while Engineering and Data Science positions demand more specialized expertise.  
+![Dash10 Work Option](https://github.com/user-attachments/assets/d5ffcef9-b074-4e63-b21f-3d42458aa694)
+
+Hybrid work (37%) is relatively common, but fully remote roles remain rare (6%). 
 
 ### Career Entry & Progression  
-Analyst roles (BA & DA) are the most accessible, with demand concentrated at Mid and Senior levels, while Engineering and Data Science positions have fewer entry-level opportunities, indicating a higher barrier to entry.
+![Dash09 Levels](https://github.com/user-attachments/assets/d3d19bc9-aaef-4ce6-95fb-f363a578341e)
+
+Analyst roles (BA & DA) are the most accessible, with demand concentrated at Mid and Senior levels, while Engineering and Data Science positions have fewer entry-level opportunities, indicating a higher barrier to entry.  
+Analyst roles have lower barriers to entry, while Engineering and Data Science positions demand more specialized expertise.  
 
 ## Recommendations
 ### For Job Seekers  
