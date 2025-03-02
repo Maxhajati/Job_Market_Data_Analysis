@@ -113,22 +113,25 @@ Based on the box-and-whisker chart, the following key information emerges:
 ### Career Entry & Progression  
 <img src="https://github.com/user-attachments/assets/d3d19bc9-aaef-4ce6-95fb-f363a578341e" alt="Dash08 Box Whisker" width="55%">
 
-Analyst roles (BA & DA) are the most accessible, with demand concentrated at Mid and Senior levels, while Engineering and Data Science positions have fewer entry-level opportunities, indicating a higher barrier to entry.  
-Analyst roles have lower barriers to entry, while Engineering and Data Science positions demand more specialized expertise.  
+- Analyst roles (BA & DA) are the **most accessible**, with demand concentrated at Mid and Senior levels, while Engineering and Data Science positions have **fewer entry-level opportunities**, indicating a higher barrier to entry.  
+- Analyst roles have lower barriers to entry, while Engineering and Data Science positions demand more specialized expertise.  
 
-### Work Models  
+### Work Model Breakdown
 ![Dash10 Work Option](https://github.com/user-attachments/assets/d5ffcef9-b074-4e63-b21f-3d42458aa694)
 
-Hybrid work (37%) is relatively common, but fully remote roles remain rare (6%). 
-
-Hybrid work is the most common, encompassing 37% of the workforce (1350 employees), offering a blend of in-person and remote work. In-person roles make up 883 positions, reflecting a strong presence in traditional office environments. Fully remote roles, though available, are relatively rare, accounting for only 6% (152 roles). This distribution emphasizes the company’s preference for a hybrid work structure while maintaining a small but growing remote workforce.
+- **Hybrid work**: 57% of the workforce, offering a blend of in-person and remote work.
+- **In-person roles**: 37% of the positions, reflecting a strong presence in traditional office environments.
+- **Fully remote roles**: 6% of the works, relatively rare but growing.  
+This distribution emphasizes the company’s preference for a hybrid work structure while maintaining a small but growing remote workforce.
 
 ## Recommendations
 ### For Job Seekers  
-Prioritize SQL, Python, and cloud computing (Azure, AWS) to maximize employability in Canada’s competitive job market. Business and Data Analyst roles offer easier entry points, while ML and Cloud Engineering require more specialized training.  
+- ✅ Prioritize SQL, Python, and cloud computing (Azure, AWS) to maximize employability in Canada’s competitive job market.
+- ✅ Business and Data Analyst roles offer easier entry points, while ML and Cloud Engineering require more specialized training.  
 ### For Employers    
-Expanding remote work opportunities could help attract a larger talent pool, especially for highly skilled roles. Additionally, offering more entry-level and internship roles in Engineering and Data Science would help build a sustainable pipeline of talent.  
+- ✅ Expanding remote work opportunities could help attract a larger talent pool, especially for highly skilled roles.
+- ✅ Additionally, offering more entry-level and internship roles in Engineering and Data Science would help build a sustainable pipeline of talent.  
 ### For Career Planning    
-Developing expertise in Power BI, Tableau, and database systems (SQL Server, PostgreSQL, MySQL) will enhance job prospects in data analysis and business intelligence roles. For those aiming at engineering and cloud roles, hands-on experience with Snowflake, Databricks, and cloud platforms will be a strong differentiator.
-
+- ✅ Developing expertise in Power BI, Tableau, and database systems (SQL Server, PostgreSQL, MySQL) will enhance job prospects in data analysis and business intelligence roles.
+- ✅ For those aiming at engineering and cloud roles, hands-on experience with Snowflake, Databricks, and cloud platforms will be a strong differentiator.
 
