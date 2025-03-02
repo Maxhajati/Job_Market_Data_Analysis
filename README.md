@@ -59,7 +59,7 @@ This section provides a breakdown of the demand for each studied role within the
 - **ML Engineers** account for **5.2%**, underscoring the specialized demand for those developing AI models.  
 
 ### Salary Trends
-![Quartiles 2](https://github.com/user-attachments/assets/350f61b0-5085-4ea3-96ad-1fe936c655c8)
+![image](https://github.com/user-attachments/assets/970ee533-4a3c-4771-8861-8fb79862e19a)
 
 Based on the Box and Whisker chart, the following key information emerges:  
 - **Data Analysts** and **Business Analysts** have lower median salaries of **78000** and **83000**, respectively, suggesting that these roles, while in high demand, require less specialized technical skills.
@@ -81,22 +81,22 @@ Based on the Box and Whisker chart, the following key information emerges:
 - In programming:  
   - **SQL** and **Python** remain essential, followed by **R** for statistical analysis.  
 - Cloud proficiency extends beyond standard platforms like **AWS, Azure,** and **Google Cloud Platform (GCP)** to include specialized tools such as **Databricks** and **Snowflake**, which are crucial for big data processing and cloud-based analytics.  
-- **Visualization** remains a key focus, with **Power BI's** Microsoft integration and **Tableau’s** flexibility making both tools essential for data professionals.
+- **Visualization tools** remains a key focus, with **Power BI's** Microsoft integration and **Tableau’s** flexibility making both tools essential for data professionals.
 
 ### Geographical Distribution Across Cities & Provinces
 ![Dash03](https://github.com/user-attachments/assets/f38198bb-6556-44ae-8065-a622e5ff2a4f)
 
-- The geographical distribution of job postings reveals a strong concentration in **Ontario**, with **Toronto** alone accounting for **923** postings, significantly outpacing other cities.  
-- **Ontario** leads among provinces with **1435** postings, highlighting its prominence as a hub for data-related roles.  
-- **Quebec** and **British Columbia** follow, with **254** and **246** postings respectively, indicating substantial demand in these regions.  
-- In Alberta, **184** postings were recorded, showing a moderate but notable presence in the data job market.  
-- Other provinces like **Manitoba, Nova Scotia,** and **Saskatchewan** exhibit limited but existing opportunities.  
-- Among cities, **Montreal (185)**, **Vancouver (146)**, **Mississauga (146)**, and **Calgary (114)** emerge as key markets outside of Toronto.  
+- The geographical distribution of job postings reveals a strong concentration in Ontario, with **Toronto** alone accounting for **38.7%** of the postings, significantly outpacing other cities.  
+- **Ontario** leads among provinces with **60.1%** of postings, highlighting its prominence as a hub for data-related roles.  
+- Quebec and British Columbia follow, with **10.6%** and **10.3%** postings respectively, indicating substantial demand in these regions.  
+- In Alberta, **7.7%** of postings were recorded, showing a moderate but notable presence in the data job market.  
+- Other provinces like Manitoba, Nova Scotia, and Saskatchewan exhibit limited but existing opportunities.  
+- Among cities, Montreal (**7.8%**), Vancouver (**6.1%**), Mississauga (**6.1%**), and Calgary (**4.8%**) emerge as key markets outside of Toronto.
 
 ### Top Employers & Industry Trends  
 <img src="https://github.com/user-attachments/assets/9f7a05fb-9157-4369-9760-eb1cc3b09453" alt="Dash08 Box Whisker" width="35%">
 
-- The top recruiters in the data and technology job market include **TD**, **Scotiabank**, **RBC**, and **CIBC**.
+- The top recruiters in the data and technology job market include **TD (4.2%), Scotiabank (2.6%), RBC (1.8%)**, and **CIBC (1.3%)**.
 - These major Canadian banks are not only prominent players in the banking industry but also leading employers in the tech sector, reflecting their substantial investments in **data**, **cloud**, and **machine learning** expertise.
 - Their strong focus on **digital transformation** creates a wealth of career opportunities for skilled professionals.
 - Job seekers targeting these organizations can expect to engage in innovative projects and gain experience with cutting-edge technologies in a dynamic, fast-paced environment.
@@ -104,16 +104,16 @@ Based on the Box and Whisker chart, the following key information emerges:
 ### Career Entry & Progression  
 <img src="https://github.com/user-attachments/assets/d3d19bc9-aaef-4ce6-95fb-f363a578341e" alt="Dash08 Box Whisker" width="55%">
 
-- Analyst roles (BA & DA) are the **most accessible**, with demand concentrated at Mid and Senior levels, while Engineering and Data Science positions have **fewer entry-level opportunities**, indicating a higher barrier to entry.  
-- Analyst roles have lower barriers to entry, while Engineering and Data Science positions demand more specialized expertise.  
+- Business and Data Analyst roles are the **most accessible**, with demand concentrated at **Mid** and **Senior levels**.
+- Engineering and Data Science positions have **fewer entry-level opportunities**, indicating a higher barrier to entry and requiring more specialized expertise.
 
 ### Work Model Breakdown
 ![Dash10 Work Option](https://github.com/user-attachments/assets/d5ffcef9-b074-4e63-b21f-3d42458aa694)
 
-- **Hybrid work**: 57% of the workforce, offering a blend of in-person and remote work.
-- **In-person roles**: 37% of the positions, reflecting a strong presence in traditional office environments.
-- **Fully remote roles**: 6% of the works, relatively rare but growing.  
-This distribution emphasizes the company’s preference for a hybrid work structure while maintaining a small but growing remote workforce.
+- **Hybrid work** accounts for **57%** of the workforce, offering a mix of in-person and remote work.  
+- **In-person roles** make up **37%** of positions, reflecting a strong presence in traditional office environments.  
+- **Fully remote roles** represent **6%** of the workforce, which are relatively rare but growing.  
+- This distribution emphasizes the company’s preference for a hybrid work structure while maintaining a small but growing remote workforce.
 
 ## Recommendations
 ### For Job Seekers  
