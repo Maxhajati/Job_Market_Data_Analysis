@@ -123,6 +123,5 @@ Based on the Box and Whisker chart, the following key information emerges:
 ✅ Expanding remote work opportunities could help attract a larger talent pool, especially for highly skilled roles.  
 ✅ Offering more entry-level and internship roles in Engineering and Data Science would help build a sustainable pipeline of talent.    
 ### For Career Planning    
-✅ Developing expertise in visualization tolls and database systems will enhance job prospects in data analysis and business intelligence roles.  
+✅ Developing expertise in visualization tools and database systems will enhance job prospects in data analysis and business intelligence roles.  
 ✅ Experience with Snowflake, Databricks, and cloud platforms will set candidates apart for engineering and cloud roles.  
-
