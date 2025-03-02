@@ -14,7 +14,7 @@ This project provides an in-depth analysis of the **Canadian job market** trends
 The analysis utilizes **Power Query** for data extraction and transformation and **Excel** for visualization through an **interactive** dashboard.
 
 ## Data Structure Overview  
-The dataset was manually extracted from [glassdoor.com](https://www.glassdoor.com) to ensure high accuracy and structured formatting, avoiding limitations associated with automated scraping. AI-driven categorization was then applied to classify job attributes, including
+The dataset was **manually** extracted from [glassdoor.com](https://www.glassdoor.com) to ensure high accuracy and structured formatting, avoiding limitations associated with automated scraping. **AI**-driven categorization was then applied to classify job attributes, including
 
 - 🔹 **Job Title**  
 - 💰 **Salary**  
@@ -26,10 +26,10 @@ The dataset was manually extracted from [glassdoor.com](https://www.glassdoor.co
 - 📈 **Job Level**  
 - 🛠️ **Required Skills**
 
-This hybrid approach—combining human oversight with AI-driven tagging—ensured data integrity, reduced inconsistencies, and created a well-structured dataset. The result is a comprehensive dataset representing the Canadian job market for data professionals as of January 2025.
+This **hybrid** approach—combining human oversight with AI-driven tagging—ensured data integrity, reduced inconsistencies, and created a well-structured dataset. The result is a comprehensive dataset representing the Canadian job market for data professionals as of January 2025.
 
 ## Executive Summary
-An analysis of **2,385 job postings** from January 2025 uncovers key trends in the data-related job market:
+An analysis of **2,385 job postings** from January 2025 uncovers key trends in the Canadian data-related job market:
 - **Most In-Demand Roles**:
   - **Business Analysts** (36.3%) & **Data Analysts** (29.5%) are the most in-demand roles, reflecting their accessibility and widespread industry applications.
 
