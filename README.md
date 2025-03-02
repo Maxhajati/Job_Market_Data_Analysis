@@ -4,9 +4,9 @@
 
 ## Background & Overview
 This project provides an in-depth analysis of the **Canadian job market** trends for data-related roles. The dataset, collected from **Glassdoor**, includes job postings from **January 1–31, 2025**, covering six key roles:      
-- 👩‍💻 **Business Analyst**
-- 📊 **Data Analyst**
-- 🧑‍💻 **Data Engineer**
+- 💼 **Business Analyst**
+- 📈 **Data Analyst**
+- 🛠️ **Data Engineer**
 - 🤖 **Data Scientist**
 - ☁️ **Cloud Engineer**
 - 🧠 **Machine Learning (ML) Engineer**
@@ -28,7 +28,6 @@ The dataset was manually extracted from Glassdoor to ensure high accuracy and st
 
 This hybrid approach—combining human oversight with AI-driven tagging—ensured data integrity, reduced inconsistencies, and created a well-structured dataset. The result is a comprehensive dataset representing the Canadian job market for data professionals as of January 2025.
 
-
 ## Executive Summary
 An analysis of **2,385 job postings** from January 2025 uncovers key trends in the data-related job market:
 - **Most In-Demand Roles**:
@@ -38,23 +37,23 @@ An analysis of **2,385 job postings** from January 2025 uncovers key trends in t
   - Business and Data Analysts earn **lower salaries**, reflecting fewer technical skill requirements, though they are in high demand.
   - Cloud and ML Engineers earn the **highest salaries** due to the advanced skills and experience needed.
 
-- **Dominant Employers**:  
-  - The **financial sector** is a major employer, with **TD**, **Scotiabank**, **RBC**, and **CIBC** leading the way. These companies are heavily investing in **data**, **cloud**, and **ML** expertise.
+- **Top Technical Skills**:  
+  - **SQL**, **Python**, and **Excel** are in high demand.  
+  - **Azure**, **AWS**, and **Power BI** are critical for gaining a competitive edge.
 
 - **Geographical Trends**:  
   - **Ontario** leads in job postings, followed by **Quebec** and **British Columbia**.  
   - Key **hiring hubs**: **Toronto**, **Montreal**, and **Vancouver**.
+  
+- **Dominant Employers**:  
+  - The **financial sector** is a major employer, with **TD**, **Scotiabank**, **RBC**, and **CIBC** leading the way. These companies are heavily investing in **data**, **cloud**, and **ML** expertise.
 
 - **Role-Level Distribution**:  
-  - Mid and senior-level positions dominate in **analyst roles**.  
+  - **Mid and senior-level positions dominate** in analyst roles.  
   - **Engineering & Data Science** roles are more competitive at entry-level, reflecting a higher barrier to entry.
 
 - **Work Mode**:  
   - Hybrid work is on the rise (57%), but **fully remote roles** remain scarce at only 6%.
-
-- **Top Technical Skills**:  
-  - **SQL**, **Python**, and **Excel** are in high demand.  
-  - **Azure**, **AWS**, and **Power BI** are critical for gaining a competitive edge.
 
 
 ## Insights Deep Dive 
@@ -104,13 +103,12 @@ Based on the box-and-whisker chart, the following key information emerges:
 - Among cities, **Montreal (185)**, **Vancouver (146)**, **Mississauga (146)**, and **Calgary (114)** emerge as key markets outside of Toronto.  
 
 ### Top Employers & Industry Trends  
-<img src="https://github.com/user-attachments/assets/9f7a05fb-9157-4369-9760-eb1cc3b09453" alt="Dash08 Box Whisker" width="40%">
+<img src="https://github.com/user-attachments/assets/9f7a05fb-9157-4369-9760-eb1cc3b09453" alt="Dash08 Box Whisker" width="35%">
 
 - The top recruiters in the data and technology job market include **TD**, **Scotiabank**, **RBC**, and **CIBC**.
 - These major Canadian banks are not only prominent players in the banking industry but also leading employers in the tech sector, reflecting their substantial investments in **data**, **cloud**, and **machine learning** expertise.
 - Their strong focus on **digital transformation** creates a wealth of career opportunities for skilled professionals.
 - Job seekers targeting these organizations can expect to engage in innovative projects and gain experience with cutting-edge technologies in a dynamic, fast-paced environment.
-
 
 ### Career Entry & Progression  
 <img src="https://github.com/user-attachments/assets/d3d19bc9-aaef-4ce6-95fb-f363a578341e" alt="Dash08 Box Whisker" width="55%">
@@ -128,12 +126,12 @@ This distribution emphasizes the company’s preference for a hybrid work struct
 
 ## Recommendations
 ### For Job Seekers  
-- ✅ Prioritize SQL, Python, and cloud computing (Azure, AWS) to maximize employability in Canada’s competitive job market.
-- ✅ Business and Data Analyst roles offer easier entry points, while ML and Cloud Engineering require more specialized training.  
+✅ Prioritize SQL, Python, and cloud computing (Azure, AWS) to maximize employability in Canada’s competitive job market.  
+✅ Business and Data Analyst roles offer easier entry points, while ML and Cloud Engineering require more specialized training.   
 ### For Employers    
-- ✅ Expanding remote work opportunities could help attract a larger talent pool, especially for highly skilled roles.
-- ✅ Additionally, offering more entry-level and internship roles in Engineering and Data Science would help build a sustainable pipeline of talent.  
+✅ Expanding remote work opportunities could help attract a larger talent pool, especially for highly skilled roles.  
+✅ Offering more entry-level and internship roles in Engineering and Data Science would help build a sustainable pipeline of talent.    
 ### For Career Planning    
-- ✅ Developing expertise in Power BI, Tableau, and database systems (SQL Server, PostgreSQL, MySQL) will enhance job prospects in data analysis and business intelligence roles.
-- ✅ For those aiming at engineering and cloud roles, hands-on experience with Snowflake, Databricks, and cloud platforms will be a strong differentiator.
+✅ Developing expertise in visualization tolls and database systems will enhance job prospects in data analysis and business intelligence roles.  
+✅ Experience with Snowflake, Databricks, and cloud platforms will set candidates apart for engineering and cloud roles.  
 
