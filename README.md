@@ -59,13 +59,10 @@ This section provides a breakdown of the demand for each studied role within the
 - **ML Engineers** account for **5.2%**, underscoring the specialized demand for those developing AI models.  
 
 ### Salary Trends
-
-<img src="https://github.com/user-attachments/assets/0240bcb4-c74d-4cde-8745-b1238d0cd4fd" alt="Dash08 Box Whisker" width="60%">   
-
-&nbsp;
+![Quartiles 2](https://github.com/user-attachments/assets/350f61b0-5085-4ea3-96ad-1fe936c655c8)
 
 Based on the Box and Whisker chart, the following key information emerges:  
-- **Business Analysts** and **Data Analysts** have lower median salaries of **83000** and **78000**, respectively, suggesting that these roles, while in high demand, require less specialized technical skills.
+- **Data Analysts** and **Business Analysts** have lower median salaries of **78000** and **83000**, respectively, suggesting that these roles, while in high demand, require less specialized technical skills.
 - The median salary for **ML Engineers** is the highest at **108000**, reflecting the demand for specialized AI skills.  
 - **Cloud Engineers** and **Data Scientists** follow closely with median salaries of **105500** and **103500**, highlighting the value of cloud management and advanced analytics expertise.  
 - **Data Engineers** earn a competitive median salary of **103000**, indicating the importance of building and managing data pipelines.  
