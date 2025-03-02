@@ -70,7 +70,7 @@ This section provides a breakdown of the demand for each studied role within the
 <img src="https://github.com/user-attachments/assets/0240bcb4-c74d-4cde-8745-b1238d0cd4fd" alt="Dash08 Box Whisker" width="60%">  
   
 
-Based on the box-and-whisker chart, the following key information emerges:  
+Based on the Box and Whisker chart, the following key information emerges:  
 - The **median salary** for **Machine Learning Engineers** is the highest at **108000**, reflecting the demand for specialized AI skills.  
 - **Cloud Engineers** and **Data Scientists** follow closely with median salaries of **105500** and **103500**, highlighting the value of cloud management and advanced analytics expertise.  
 - **Data Engineers** earn a competitive median salary of **103000**, indicating the importance of building and managing data pipelines.  
