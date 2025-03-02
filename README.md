@@ -11,10 +11,10 @@ This project provides an in-depth analysis of the **Canadian job market** trends
 - ☁️ **Cloud Engineer**
 - 🧠 **Machine Learning (ML) Engineer**
 
-The analysis utilizes **SQL** and **Power Query** for data extraction and transformation and **Excel** for visualization through an **interactive dashboard**.
+The analysis utilizes **Power Query** for data extraction and transformation and **Excel** for visualization through an **interactive** dashboard.
 
 ## Data Structure Overview  
-The dataset was manually extracted from Glassdoor to ensure high accuracy and structured formatting, avoiding limitations associated with automated scraping. AI-driven categorization was then applied to classify job attributes, including:
+The dataset was manually extracted from [glassdoor.com](https://www.glassdoor.com) to ensure high accuracy and structured formatting, avoiding limitations associated with automated scraping. AI-driven categorization was then applied to classify job attributes, including
 
 - 🔹 **Job Title**  
 - 💰 **Salary**  
