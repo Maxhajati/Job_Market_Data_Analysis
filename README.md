@@ -3,13 +3,14 @@
 ![dash01](https://github.com/user-attachments/assets/0daa8312-b635-4eb4-8b97-e8618be64b84)
 
 ## Background & Overview
-This project provides an in-depth analysis of the **Canadian job market** trends for data-related roles. The dataset, collected from **Glassdoor**, includes job postings from **January 1–31, 2025**, covering six key roles:  
-•	**Business Analyst**  
-•	**Data Analyst**  
-•	**Data Engineer**  
-•	**Data Scientist**  
-•	**Cloud Engineer**  
-•	**Machine Learning (ML) Engineer**  
+This project provides an in-depth analysis of the **Canadian job market** trends for data-related roles. The dataset, collected from **Glassdoor**, includes job postings from **January 1–31, 2025**, covering six key roles:      
+- 👩‍💻 **Business Analyst**
+- 📊 **Data Analyst**
+- 🧑‍💻 **Data Engineer**
+- 🤖 **Data Scientist**
+- ☁️ **Cloud Engineer**
+- 🧠 **Machine Learning (ML) Engineer**
+
 The analysis utilizes **SQL** and **Power Query** for data extraction and transformation and **Excel** for visualization through an **interactive dashboard**.
 
 ## Data Structure Overview  
@@ -33,8 +34,9 @@ An analysis of **2,385 job postings** from January 2025 uncovers key trends in t
 - **Most In-Demand Roles**:
   - **Business Analysts** (36.3%) & **Data Analysts** (29.5%) are the most in-demand roles, reflecting their accessibility and widespread industry applications.
 
-- **Top Earners**:  
-  - **Cloud Engineers** & **ML Engineers** earn the highest salaries, but these positions require advanced skills and experience.
+- **Salary Highlights**:  
+  - Business and Data Analysts earn **lower salaries**, reflecting fewer technical skill requirements, though they are in high demand.
+  - Cloud and ML Engineers earn the **highest salaries** due to the advanced skills and experience needed.
 
 - **Dominant Employers**:  
   - The **financial sector** is a major employer, with **TD**, **Scotiabank**, **RBC**, and **CIBC** leading the way. These companies are heavily investing in **data**, **cloud**, and **ML** expertise.
@@ -48,7 +50,7 @@ An analysis of **2,385 job postings** from January 2025 uncovers key trends in t
   - **Engineering & Data Science** roles are more competitive at entry-level, reflecting a higher barrier to entry.
 
 - **Work Mode**:  
-  - Hybrid work is on the rise (37%), but **fully remote roles** remain scarce at only 6%.
+  - Hybrid work is on the rise (57%), but **fully remote roles** remain scarce at only 6%.
 
 - **Top Technical Skills**:  
   - **SQL**, **Python**, and **Excel** are in high demand.  
