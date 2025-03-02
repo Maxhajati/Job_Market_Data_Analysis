@@ -31,7 +31,7 @@ This **hybrid** approach—combining human oversight with AI-driven tagging—en
 ## Executive Summary
 An analysis of **2,385 job postings** from January 2025 uncovers key trends in the Canadian data-related job market:
 - **Most In-Demand Roles**:
-  - **Business Analysts** (36.3%) & **Data Analysts** (29.5%) are the most in-demand roles, reflecting their accessibility and widespread industry applications.
+  - **Business Analysts** (36.3%) and **Data Analysts** (29.5%) are the most in-demand roles, reflecting their accessibility and widespread industry applications.
 
 - **Salary Highlights**:  
   - Business and Data Analysts earn **lower salaries**, reflecting fewer technical skill requirements, though they are in high demand.
@@ -42,42 +42,36 @@ An analysis of **2,385 job postings** from January 2025 uncovers key trends in t
   - **Azure**, **AWS**, and **Power BI** are critical for gaining a competitive edge.
 
 - **Geographical Trends**:  
-  - **Ontario** leads in job postings, followed by **Quebec** and **British Columbia**.  
+  - **Ontario** leads among provinces with **60%** of job postings, followed by **Quebec** and **British Columbia** at **11%** and **10%**.
   - Key **hiring hubs**: **Toronto**, **Montreal**, and **Vancouver**.
   
 - **Dominant Employers**:  
   - The **financial sector** is a major employer, with **TD**, **Scotiabank**, **RBC**, and **CIBC** leading the way. These companies are heavily investing in **data**, **cloud**, and **ML** expertise.
-
-- **Role-Level Distribution**:  
-  - **Mid and senior-level positions dominate** in analyst roles.  
-  - **Engineering & Data Science** roles are more competitive at entry-level, reflecting a higher barrier to entry.
-
-- **Work Mode**:  
-  - Hybrid work is on the rise (57%), but **fully remote roles** remain scarce at only 6%.
-
 
 ## Insights Deep Dive 
 ### Role Demand 
 
 This section provides a breakdown of the demand for each studied role within the data sector.  
 - **Business Analysts** lead the demand with **36.3%**, highlighting their crucial role in bridging business objectives and technical solutions.  
-- **Data Analysts** follow closely with **29.5%**, indicating a strong need for professionals who can gather, interpret, and analyze data.  
+- **Data Analysts** follow closely with **29.5%**, indicating a strong need for professionals who can gather, clean, and analyze data.  
 - **Data Engineers** are in demand at **10.9%**, reflecting the growing need for experts in building and maintaining robust data architectures.  
 - **Data Scientists** and **Cloud Engineers** both have a demand share of **9.1%**, showcasing the importance of advanced analytics and cloud-based infrastructure expertise.  
 - **ML Engineers** account for **5.2%**, underscoring the specialized demand for those developing AI models.  
 
 ### Salary Trends
-<img src="https://github.com/user-attachments/assets/0240bcb4-c74d-4cde-8745-b1238d0cd4fd" alt="Dash08 Box Whisker" width="60%">  
-  
+
+<img src="https://github.com/user-attachments/assets/0240bcb4-c74d-4cde-8745-b1238d0cd4fd" alt="Dash08 Box Whisker" width="60%">   
+
+&nbsp;
 
 Based on the Box and Whisker chart, the following key information emerges:  
-- The **median salary** for **Machine Learning Engineers** is the highest at **108000**, reflecting the demand for specialized AI skills.  
+- **Business Analysts** and **Data Analysts** have lower median salaries of **83000** and **78000**, respectively, suggesting that these roles, while in high demand, require less specialized technical skills.
+- The median salary for **ML Engineers** is the highest at **108000**, reflecting the demand for specialized AI skills.  
 - **Cloud Engineers** and **Data Scientists** follow closely with median salaries of **105500** and **103500**, highlighting the value of cloud management and advanced analytics expertise.  
 - **Data Engineers** earn a competitive median salary of **103000**, indicating the importance of building and managing data pipelines.  
-- **Business Analysts** and **Data Analysts** have lower median salaries of **83000** and **78000**, respectively, suggesting that these roles, while in high demand, require less specialized technical skills.  
 - The chart shows a **significant spread in salaries**, especially for **Data Scientists** and **ML Engineers**, pointing to opportunities for higher earnings based on experience and specialization.  
 - The presence of **outliers** suggests that top-tier professionals can earn **substantially above the median** in roles like Data Scientist and ML Engineer.  
-- Overall, the salary distribution emphasizes the **financial benefits of acquiring advanced technical skills** and specializing in fields such as **machine learning** and **cloud computing**.  
+- Overall, the salary distribution emphasizes the **financial benefits of acquiring advanced technical skills** and specializing in fields such as **ML** and **cloud computing**.  
 
 
 ### Skills Demand  
