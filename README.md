@@ -1,6 +1,6 @@
 # Job Market Data Analysis 
 
-![dash01](https://github.com/user-attachments/assets/0daa8312-b635-4eb4-8b97-e8618be64b84)
+![Chart 1](https://github.com/user-attachments/assets/71866413-c53b-4ca7-aeac-f96873d964ce)
 
 ## Background & Overview
 This project provides an in-depth analysis of the **Canadian job market** trends for data-related roles. The dataset, collected from **Glassdoor**, includes job postings from **January 1–31, 2025**, covering six key roles:      
@@ -72,7 +72,8 @@ Based on the Box and Whisker chart, the following key information emerges:
 
 
 ### Skills Demand  
-![Dash05](https://github.com/user-attachments/assets/2f446d62-5561-47ad-a374-46cef119b847)
+![Chart 3](https://github.com/user-attachments/assets/939af69c-145b-45e5-b279-7b2b8c349131)
+
 
 - Across all job postings, **SQL, Python, Excel**, and **Power BI/Tableau** emerge as the most sought-after skills, forming the foundation for data-related roles. 
 - Breaking down skill requirements further:  
@@ -84,7 +85,7 @@ Based on the Box and Whisker chart, the following key information emerges:
 - **Visualization tools** remains a key focus, with **Power BI's** Microsoft integration and **Tableau’s** flexibility making both tools essential for data professionals.
 
 ### Geographical Distribution Across Cities & Provinces
-![Dash03](https://github.com/user-attachments/assets/f38198bb-6556-44ae-8065-a622e5ff2a4f)
+![Geographical Distribution](https://github.com/user-attachments/assets/39fee95f-e2e9-44a9-b144-923abc40b2bf)
 
 - The geographical distribution of job postings reveals a strong concentration in Ontario, with **Toronto** alone accounting for **38.7%** of the postings, significantly outpacing other cities.  
 - **Ontario** leads among provinces with **60.1%** of postings, highlighting its prominence as a hub for data-related roles.  
