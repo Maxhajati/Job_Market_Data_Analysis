@@ -85,12 +85,12 @@ Based on the Box and Whisker chart, the following key information emerges:
 ### Geographical Distribution Across Cities & Provinces
 ![Geographical Distribution](https://github.com/user-attachments/assets/39fee95f-e2e9-44a9-b144-923abc40b2bf)
 
-- The geographical distribution of job postings reveals a strong concentration in Ontario, with **Toronto** alone accounting for **38.7%** of the postings, significantly outpacing other cities.  
-- **Ontario** leads among provinces with **60.1%** of postings, highlighting its prominence as a hub for data-related roles.  
-- Quebec and British Columbia follow, with **10.6%** and **10.3%** postings respectively, indicating substantial demand in these regions.  
-- In Alberta, **7.7%** of postings were recorded, showing a moderate but notable presence in the data job market.  
+- The geographical distribution of job postings reveals a strong concentration in Ontario, with **Toronto** alone accounting for **38.70%** of the postings, significantly outpacing other cities.  
+- **Ontario** leads among provinces with **60.17%** of postings, highlighting its prominence as a hub for data-related roles.  
+- Quebec and British Columbia follow, with **10.65%** and **10.31%** postings respectively, indicating substantial demand in these regions.  
+- In Alberta, **7.71%** of postings were recorded, showing a moderate but notable presence in the data job market.  
 - Other provinces like Manitoba, Nova Scotia, and Saskatchewan exhibit limited but existing opportunities.  
-- Among cities, Montreal (**7.8%**), Vancouver (**6.1%**), Mississauga (**6.1%**), and Calgary (**4.8%**) emerge as key markets outside of Toronto.
+- Among cities, Montreal (**7.76%**), Vancouver (**6.12%**), Mississauga (**6.12%**), and Calgary (**4.78%**) emerge as key markets outside of Toronto.
 
 ### Top Employers & Industry Trends  
 ![Provinces](https://github.com/user-attachments/assets/2d9a0c02-6ab6-43f4-b68d-eb498ce33b4e)
