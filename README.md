@@ -70,10 +70,8 @@ Based on the Box and Whisker chart, the following key information emerges:
 - The presence of **outliers** suggests that top-tier professionals can earn **substantially above the median** in roles like Data Scientist and ML Engineer.  
 - Overall, the salary distribution emphasizes the **financial benefits of acquiring advanced technical skills** and specializing in fields such as **ML** and **cloud computing**.  
 
-
 ### Skills Demand  
-![Chart 3](https://github.com/user-attachments/assets/939af69c-145b-45e5-b279-7b2b8c349131)
-
+![Skills](https://github.com/user-attachments/assets/5b442a22-ba07-49f0-b6ce-73c6a474c71c)
 
 - Across all job postings, **SQL, Python, Excel**, and **Power BI/Tableau** emerge as the most sought-after skills, forming the foundation for data-related roles. 
 - Breaking down skill requirements further:  
@@ -95,7 +93,7 @@ Based on the Box and Whisker chart, the following key information emerges:
 - Among cities, Montreal (**7.8%**), Vancouver (**6.1%**), Mississauga (**6.1%**), and Calgary (**4.8%**) emerge as key markets outside of Toronto.
 
 ### Top Employers & Industry Trends  
-<img src="https://github.com/user-attachments/assets/9f7a05fb-9157-4369-9760-eb1cc3b09453" alt="Dash08 Box Whisker" width="35%">
+![Provinces](https://github.com/user-attachments/assets/2d9a0c02-6ab6-43f4-b68d-eb498ce33b4e)
 
 - The top recruiters in the data and technology job market include **TD (4.2%), Scotiabank (2.6%), RBC (1.8%)**, and **CIBC (1.3%)**.
 - These major Canadian banks are not only prominent players in the banking industry but also leading employers in the tech sector, reflecting their substantial investments in **data**, **cloud**, and **machine learning** expertise.
