@@ -27,8 +27,16 @@ Here's the breakdown of job postings by day of the week within the dataset:
 The goal of executing this SQL query is to analyze the distribution of job postings across various job titles within the dataset.  
 
 ```sql
-SELECT
-
+SELECT 
+    job_title, 
+    COUNT(*) AS job_count,
+    ROUND((COUNT(*) * 100.0 / 2385), 2) || '%' AS role_percentage 
+FROM 
+    job_posting_fact
+GROUP BY 
+    job_title
+ORDER BY 
+    job_count DESC;
 ```
 
 Here's the breakdown of the distribution of job postings across various job titles within the dataset:  
@@ -41,8 +49,19 @@ Here's the breakdown of the distribution of job postings across various job titl
 The goal of executing this SQL query is to analyze the salary distribution for each job title within the dataset.  
 
 ```sql
-SELECT
-
+SELECT 
+    job_title, 
+    CAST(MIN(salary) AS INT) AS min_salary, 
+    CAST(PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY salary) AS INT) AS median_salary,
+    CAST(MAX(salary) AS INT) AS max_salary
+FROM 
+    job_posting_fact
+WHERE 
+    salary IS NOT NULL
+GROUP BY 
+    job_title
+ORDER BY 
+    min_salary ASC;
 ```
 
 Here's the breakdown of the salary trends across different job titles within the dataset:    
@@ -62,8 +81,18 @@ Here's the breakdown of the salary trends across different job titles within the
 The goal of executing this SQL query is to analyze the geographical distribution of job postings across different provinces in Canada. 
 
 ```sql
-SELECT
-
+SELECT 
+    province,  
+    COUNT(*) AS total_postings,
+    ROUND((COUNT(*) * 100.0 / 2385), 2) || '%' AS job_percentage
+FROM 
+  job_posting_fact
+WHERE 
+  province IS NOT NULL
+GROUP BY 
+  province
+ORDER BY 
+  total_postings DESC;
 ```
 
 Here's the breakdown of job postings across provinces in Canada:    
@@ -81,8 +110,19 @@ Here's the breakdown of job postings across provinces in Canada:
 The goal of executing this SQL query is to identify the top 10 companies with the highest number of job postings in the dataset.  
 
 ```sql
-SELECT
-
+SELECT 
+    company,  
+    COUNT(*) AS total_postings,
+    ROUND((COUNT(*) * 100.0 / 2385), 2) || '%' AS job_percentage
+FROM 
+  job_posting_fact
+WHERE 
+  company IS NOT NULL
+GROUP BY 
+  company
+ORDER BY 
+  total_postings DESC
+LIMIT 10;
 ```
 
 Here's the breakdown of the top job recruiters in Canada's data industry:  
@@ -99,8 +139,18 @@ Here's the breakdown of the top job recruiters in Canada's data industry:
 The goal of executing this SQL query is to analyze the distribution of job postings based on work options within the dataset.   
 
 ```sql
-SELECT
-
+SELECT 
+    work_option,  
+    COUNT(*) AS total_postings,
+    ROUND((COUNT(*) * 100.0 / 2385), 2) || '%' AS job_percentage
+FROM 
+  job_posting_fact
+WHERE 
+  work_option IS NOT NULL
+GROUP BY 
+  work_option
+ORDER BY 
+  total_postings DESC;
 ```
 
 Here's the breakdown of the work model:    
