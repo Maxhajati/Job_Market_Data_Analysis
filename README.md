@@ -1,6 +1,5 @@
 # Job Market Data Analysis
 
-![Chart 1](https://github.com/user-attachments/assets/358ad8c1-8f19-4404-b15b-f4f85fab8be1)
 ![Chart 1](https://github.com/user-attachments/assets/2556fd8c-803b-4987-b278-fc3d1c3c0603)
 
 
