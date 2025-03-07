@@ -1,7 +1,7 @@
 # Job Market Data Analysis Using SQL
 
-## Time-Based Analysis of Job Postings  
-The goal of executing this SQL query is to analyze job posting trends by aggregating the total number of postings for each day of the week.  
+## Time-Based Analysis of Job Postings    
+This SQL query analyzes job posting trends by aggregating the total number of postings for each day of the week.  
 
 ```sql
 SELECT 
@@ -22,8 +22,8 @@ Here's the breakdown of job postings by day of the week within the dataset:
 ![time-based_analysis](https://github.com/user-attachments/assets/106960be-82d9-44fb-b1d9-f58a8b4d3e8c)
 
 
-## Demand Distributed Across Jobs 
-The goal of executing this SQL query is to analyze the distribution of job postings across various job titles within the dataset.  
+## Demand Distribution Across Jobs  
+This SQL query analyzes the distribution of job postings across various job titles in the dataset.  
 
 ```sql
 SELECT 
@@ -38,12 +38,11 @@ ORDER BY
     job_count DESC;
 ```
 
-Here's the breakdown of the distribution of job postings across various job titles within the dataset:  
+Here's the breakdown of job postings across different job titles:  
 ![demand_distributed_across_jobs](https://github.com/user-attachments/assets/0488a902-87ea-4529-ad40-a661ac549865)
 
-
-## Salary Trends For Different Jobs  
-The goal of executing this SQL query is to analyze the salary distribution for each job title within the dataset.  
+## Salary Trends for Different Jobs  
+This SQL query examines the salary distribution for each job title within the dataset.  
 
 ```sql
 SELECT 
@@ -61,12 +60,12 @@ ORDER BY
     min_salary ASC;
 ```
 
-Here's the breakdown of the salary trends across different job titles within the dataset:    
+Here's the breakdown of salary trends across different job titles:  
 ![salary_trends_for_different_jobs](https://github.com/user-attachments/assets/392afe24-99ae-40d0-bc77-4a323720d981)
 
+## Geographical Distribution of Jobs Across Canada  
+This SQL query analyzes the geographical distribution of job postings across different provinces in Canada.  
 
-## Geographical Distribution Of Jobs Across Canada
-The goal of executing this SQL query is to analyze the geographical distribution of job postings across different provinces in Canada. 
 
 ```sql
 SELECT 
@@ -83,12 +82,11 @@ ORDER BY
   total_postings DESC;
 ```
 
-Here's the breakdown of job postings across provinces in Canada:    
+Here's the breakdown of job postings by province:  
 ![geographical_distribution_of_jobs_across_canada](https://github.com/user-attachments/assets/2b856472-be1a-4126-a2b0-cee2565e3595)
 
-
-## Top Recruiters In The Data Job Market   
-The goal of executing this SQL query is to identify the top 10 companies with the highest number of job postings in the dataset.  
+## Top Recruiters in the Data Job Market  
+This SQL query identifies the top 10 companies with the highest number of job postings in the dataset.  
 
 ```sql
 SELECT 
@@ -106,12 +104,11 @@ ORDER BY
 LIMIT 10;
 ```
 
-Here's the breakdown of the top job recruiters in Canada's data industry:  
+Here's the breakdown of the top recruiters in Canada's data industry:  
 ![top_recruiters_in_the_data_job_market](https://github.com/user-attachments/assets/f852f1a3-ca14-4ace-a9df-4c7defd4f498)
 
-
 ## Work Model Breakdown  
-The goal of executing this SQL query is to analyze the distribution of job postings based on work options within the dataset.   
+This SQL query analyzes the distribution of job postings based on different work models.  
 
 ```sql
 SELECT 
@@ -128,5 +125,5 @@ ORDER BY
   total_postings DESC;
 ```
 
-Here's the breakdown of the work model:    
+Here's the breakdown of job postings by work model:  
 ![work_model_breakdown](https://github.com/user-attachments/assets/4f293a0a-a9b7-43ed-b455-f5d7807f7401)
