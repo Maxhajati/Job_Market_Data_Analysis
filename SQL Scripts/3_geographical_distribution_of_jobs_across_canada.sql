@@ -3,7 +3,7 @@ The goal of executing this SQL query is to analyze the geographical distribution
 By counting the total number of job postings for each province and calculating the percentage share relative to the total of 2,385 
 postings, the query provides insights into which provinces have the highest demand for data-related roles. The results are grouped 
 by province, ensuring that each location's contribution to the job market is clearly represented. Finally, the data is sorted in 
-descending order based on total postings, making it easy to identify the regions with the most job opportunities.
+descending order based on total postings, making it easy to identify the regions with the most job opportunities
 */
 
 ===============================================================
