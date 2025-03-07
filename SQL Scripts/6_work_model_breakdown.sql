@@ -5,7 +5,7 @@ job postings that each work option represents, assuming a total of 2,385 job pos
 the query provides a clear breakdown of the demand for different work models. The results are then ordered by the total number 
 of postings in descending order, making it easy to see the most common work options in the job market. This analysis helps 
 in understanding how work models are distributed and which ones are more prevalent in the data sector.
-*/
+*/ 
 
 SELECT 
     work_option,  
