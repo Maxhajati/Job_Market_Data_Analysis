@@ -1,3 +1,16 @@
+
+/*
+  This is a multi-line comment
+  that spans multiple lines.
+  It can be very useful for detailed explanations.
+*/
+
+
+SELECT * FROM employees;
+
+
+
+
 SELECT 
     -- Select the job title from the table to categorize job postings
     job_title, 
