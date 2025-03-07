@@ -6,7 +6,6 @@ by province, ensuring that each location's contribution to the job market is cle
 descending order based on total postings, making it easy to identify the regions with the most job opportunities
 */
 
-===============================================================
   
 SELECT 
     province,  
@@ -21,7 +20,6 @@ GROUP BY
 ORDER BY 
   total_postings DESC;
 
-===============================================================
 
 /* Insights
 
