@@ -1,5 +1,25 @@
 # Job Market Data Analysis Using SQL
 
+## Loading the Database in the Table
+
+```sql
+CREATE TABLE job_posting_fact (
+    job_id SERIAL PRIMARY KEY,
+    job_title VARCHAR(100) NOT NULL,
+    salary NUMERIC(10, 2),
+    city VARCHAR(100) NOT NULL,
+    province VARCHAR(100) NOT NULL,
+    company VARCHAR(100) NOT NULL,
+    work_option VARCHAR(50) NOT NULL,
+    posted_date DATE NOT NULL,
+    job_schedule VARCHAR(50) NOT NULL,
+    level_needed VARCHAR(50) NOT NULL
+);
+```
+
+![Table](https://github.com/user-attachments/assets/89048b82-613c-40ee-804c-6896b34dc9b6)
+
+
 ## Time-Based Analysis of Job Postings    
 This SQL query analyzes job posting trends by aggregating the total number of postings for each day of the week.  
 
