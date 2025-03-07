@@ -6,7 +6,6 @@ company, ensuring that each organization's contribution to the job market is cle
 sorted in descending order based on total postings, making it easy to recognize the top employers in the industry.
 */
 
-===============================================================
 
 SELECT 
     company,  
@@ -22,7 +21,6 @@ ORDER BY
   total_postings DESC
 LIMIT 10;
 
-===============================================================
 
 /* Insights
 
