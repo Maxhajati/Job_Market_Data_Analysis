@@ -84,7 +84,7 @@ Based on the Box and Whisker chart, the following key information emerges:
 - **Visualization tools** remains a key focus, with **Power BI's** Microsoft integration and **Tableau’s** flexibility making both tools essential for data professionals.
 
 ### Geographical Distribution Across Cities & Provinces
-![Geographical Distribution](https://github.com/user-attachments/assets/39fee95f-e2e9-44a9-b144-923abc40b2bf)
+![Geographical Distribution](https://github.com/user-attachments/assets/9c55bfa3-66a0-4831-8cc8-5459511d0ab9)
 
 - The geographical distribution of job postings reveals a strong concentration in Ontario, with **Toronto** alone accounting for **38.70%** of the postings, significantly outpacing other cities.  
 - **Ontario** leads among provinces with **60.17%** of postings, highlighting its prominence as a hub for data-related roles.  
