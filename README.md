@@ -108,7 +108,8 @@ Based on the Box and Whisker chart, the following key information emerges:
 - Engineering and Data Science positions have **fewer entry-level opportunities**, indicating a higher barrier to entry and requiring more specialized expertise.
 
 ### Work Model Breakdown
-![Dash10 Work Option](https://github.com/user-attachments/assets/d5ffcef9-b074-4e63-b21f-3d42458aa694)
+![Work Model](https://github.com/user-attachments/assets/12bc174a-4cb0-4839-ab29-62737d758afd)
+
 
 - **Hybrid work** accounts for **57%** of the workforce, offering a mix of in-person and remote work.  
 - **In-person roles** make up **37%** of positions, reflecting a strong presence in traditional office environments.  
