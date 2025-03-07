@@ -22,15 +22,14 @@ Here's the breakdown of job postings by day of the week within the dataset:
 ![time-based_analysis](https://github.com/user-attachments/assets/106960be-82d9-44fb-b1d9-f58a8b4d3e8c)
 
 
-
-## demand_distributed_across_jobs 
+## Demand Distributed Across Jobs 
 The goal of executing this SQL query is to analyze the distribution of job postings across various job titles within the dataset.  
 
 ```sql
 SELECT 
     job_title, 
     COUNT(*) AS job_count,
-    ROUND((COUNT(*) * 100.0 / 2385), 2) || '%' AS role_percentage 
+    ROUND((COUNT(*) * 100.0 / 2385), 2) || '%' AS job_percentage 
 FROM 
     job_posting_fact
 GROUP BY 
@@ -43,9 +42,7 @@ Here's the breakdown of the distribution of job postings across various job titl
 ![demand_distributed_across_jobs](https://github.com/user-attachments/assets/0488a902-87ea-4529-ad40-a661ac549865)
 
 
-
-
-## salary_trends_for_different_jobs  
+## Salary Trends For Different Jobs  
 The goal of executing this SQL query is to analyze the salary distribution for each job title within the dataset.  
 
 ```sql
@@ -68,16 +65,7 @@ Here's the breakdown of the salary trends across different job titles within the
 ![salary_trends_for_different_jobs](https://github.com/user-attachments/assets/392afe24-99ae-40d0-bc77-4a323720d981)
 
 
-
-
-
-
-
-
-
-
-
-## geographical_distribution_of_jobs_across_canada
+## Geographical Distribution Of Jobs Across Canada
 The goal of executing this SQL query is to analyze the geographical distribution of job postings across different provinces in Canada. 
 
 ```sql
@@ -99,14 +87,7 @@ Here's the breakdown of job postings across provinces in Canada:
 ![geographical_distribution_of_jobs_across_canada](https://github.com/user-attachments/assets/2b856472-be1a-4126-a2b0-cee2565e3595)
 
 
-
-
-
-
-
-
-
-## top_recruiters_in_the_data_job_market   
+## Top Recruiters In The Data Job Market   
 The goal of executing this SQL query is to identify the top 10 companies with the highest number of job postings in the dataset.  
 
 ```sql
@@ -129,13 +110,7 @@ Here's the breakdown of the top job recruiters in Canada's data industry:
 ![top_recruiters_in_the_data_job_market](https://github.com/user-attachments/assets/f852f1a3-ca14-4ace-a9df-4c7defd4f498)
 
 
-
-
-
-
-
-
-## work_model_breakdown  
+## Work Model Breakdown  
 The goal of executing this SQL query is to analyze the distribution of job postings based on work options within the dataset.   
 
 ```sql
@@ -155,5 +130,3 @@ ORDER BY
 
 Here's the breakdown of the work model:    
 ![work_model_breakdown](https://github.com/user-attachments/assets/4f293a0a-a9b7-43ed-b455-f5d7807f7401)
-
-
