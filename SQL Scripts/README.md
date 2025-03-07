@@ -2,6 +2,10 @@
 
 ## Loading the Database in the Table
 
+This SQL query creates the `job_posting_fact` table, which serves as the foundation for job market data analysis. It defines key attributes related to job postings, such as job title, salary, location, company, work model, posting date, schedule, and experience level.  
+
+Here's the structure of the job postings table: 
+
 ```sql
 CREATE TABLE job_posting_fact (
     job_id SERIAL PRIMARY KEY,
@@ -16,7 +20,7 @@ CREATE TABLE job_posting_fact (
     level_needed VARCHAR(50) NOT NULL
 );
 ```
-
+And here is the generated table in SQL:  
 ![Table](https://github.com/user-attachments/assets/89048b82-613c-40ee-804c-6896b34dc9b6)
 
 
