@@ -1,4 +1,3 @@
-
 /*
 The goal of executing this SQL query is to analyze the distribution of job postings across various job titles within the dataset. 
 It calculates the total count of job postings for each distinct job_title and determines the percentage of the total job postings 
