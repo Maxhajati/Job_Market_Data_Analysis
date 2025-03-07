@@ -1,4 +1,3 @@
-
 /*
 The goal of executing this SQL query is to analyze the salary distribution for each job title within the dataset. 
 The query calculates the minimum salary, median salary, and maximum salary for each distinct job title by using 
