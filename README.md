@@ -1,4 +1,4 @@
-# Job Market Data Analysis 123
+# Job Market Data Analysis
 
 ![Chart 1](https://github.com/user-attachments/assets/2556fd8c-803b-4987-b278-fc3d1c3c0603)
 
