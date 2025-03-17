@@ -2,6 +2,8 @@
 
 ![Chart 1](https://github.com/user-attachments/assets/2556fd8c-803b-4987-b278-fc3d1c3c0603)
 
+<img width="959" alt="project-preview" src="https://github.com/user-attachments/assets/ce9325c4-233a-49e0-8d3a-85fb3f62cfa0" />
+
 
 ## Background & Overview
 This project provides an in-depth analysis of the **Canadian job market** trends for data-related roles. The dataset, collected from **Glassdoor**, includes job postings from **January 1–31, 2025**, covering six key roles:      
