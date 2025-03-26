@@ -12,9 +12,6 @@ This project provides an in-depth analysis of the **Canadian job market** trends
 - 🧠 **Machine Learning (ML) Engineer**
 
 The analysis utilizes **Power Query** for data extraction and transformation and **Excel** for visualization through an **interactive** dashboard.
-### Stack
-![Static Badge](https://img.shields.io/badge/Microsoft_Excel-%23D40000?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Power_Query-%231C9AD6?style=for-the-badge)
 
 ## Data Structure Overview  
 The dataset was **manually** extracted from [glassdoor.com](https://www.glassdoor.com) to ensure high accuracy and structured formatting, avoiding limitations associated with automated scraping. **AI**-driven categorization was then applied to classify job attributes, including
